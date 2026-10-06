@@ -1,0 +1,12 @@
+2026-10-06 16:25:31,687 102101 Pascoe River at Fall Creek n=54 t3 0.270/0.254 t4 0.168/0.167 cost=3.22e-31
+2026-10-06 16:25:33,607 110003 Barron River at Picnic Crossing n=96 t3 0.423/0.424 t4 0.248/0.247 cost=1.69e-31
+2026-10-06 16:25:35,731 112002 Fisher Creek at Nerada n=93 t3 0.400/0.404 t4 0.185/0.184 cost=0.00e+00
+2026-10-06 16:25:37,737 121001 Don River at Ida Creek n=62 t3 0.507/0.526 t4 0.318/0.323 cost=0.00e+00
+2026-10-06 16:25:39,752 129001 Waterpark Creek at Byfield n=67 t3 0.398/0.391 t4 0.290/0.318 cost=6.69e-31
+2026-10-06 16:25:41,859 136203 Barker Creek at Brooklands n=72 t3 0.426/0.434 t4 0.219/0.224 cost=0.00e+00
+2026-10-06 16:25:44,017 145102 Albert River at Bromfleet n=94 t3 0.349/0.340 t4 0.160/0.155 cost=4.98e-31
+2026-10-06 16:25:46,174 422306 Swan Creek at Swanfels n=101 t3 0.462/0.459 t4 0.230/0.236 cost=0.00e+00
+2026-10-06 16:25:48,107 145003 Logan R at Forest Home n=68 t3 0.381/0.390 t4 0.239/0.255 cost=0.00e+00
+2026-10-06 16:25:50,183 210017 Moonan Brook at Moonan Brook n=73 t3 0.495/0.479 t4 0.304/0.288 cost=3.55e-31
+2026-10-06 16:25:52,184 210011 Williams River at Tillegra n=88 t3 0.349/0.343 t4 0.193/0.198 cost=0.00e+00
+2026-10-06 16:25:54,659 215004 Corang River at Hockeys n=94 t3 0.277/0.287 t4 0.146/0.141 cost=1.02e-30

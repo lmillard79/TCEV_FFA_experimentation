@@ -1,0 +1,29 @@
+{
+  "run_stamp": "20261006_162529",
+  "seed": 20260930,
+  "inputs": {
+    "paper_sites.csv": "3678b61b1e08aa73eca41e71f5b67b4361d966a48281a593d869a8509d678d19",
+    "ams_all.csv": "fbe9096801f9d906e1e82a9a04bba89c91af4708fd27b9a9bbb027e7d58aa3a7"
+  },
+  "code": {
+    "replicate_paper.py": "9ce5cbf9cf5ead858437aca8f0c59af09467d62d9a7ff1c8747b7e8d8e17eb44",
+    "tcev.py": "2b213f1c1317a88d79e32583fdd01b72a42ee84101d9b09e20ae4ceb496d070a",
+    "tcev_lmom.py": "392f5d083eb03190d015a4c49aa7d1e8f3d31bf4958f2d18698d641e9b1fedb8"
+  },
+  "outputs": [
+    "lmom_starts_102101.csv",
+    "lmom_starts_110003.csv",
+    "lmom_starts_112002.csv",
+    "lmom_starts_121001.csv",
+    "lmom_starts_129001.csv",
+    "lmom_starts_136203.csv",
+    "lmom_starts_145003.csv",
+    "lmom_starts_145102.csv",
+    "lmom_starts_210011.csv",
+    "lmom_starts_210017.csv",
+    "lmom_starts_215004.csv",
+    "lmom_starts_422306.csv",
+    "replication_table2.csv",
+    "run_log_20261006_162529.txt"
+  ]
+}

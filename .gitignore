@@ -1,0 +1,10 @@
+# Downloaded third-party data and project-specific inputs: regenerate with fetch_ffa.py
+inputs/
+# Run outputs: keep only the reference replication run
+outputs/*
+!outputs/replication_*/
+# Client-project helper (hard-coded server path)
+build_inputs.py
+# Python
+__pycache__/
+*.pyc
