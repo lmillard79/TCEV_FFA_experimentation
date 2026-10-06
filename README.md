@@ -4,7 +4,11 @@ A small Python sandbox for understanding the **Two-Component Extreme Value (TCEV
 in flood frequency analysis (FFA), and for testing whether published TCEV results for eastern
 Australia can be reproduced from open data.
 
-This is a learning project, not a design tool. Nothing here replaces ARR guidance.
+> **For education and curiosity only.** This code and its results have not been peer reviewed,
+> independently verified or stress tested. Do not use them for design, risk assessment or any
+> decision where a wrong answer has consequences. Nothing here replaces Australian Rainfall and
+> Runoff guidance or professional judgement. The views and summaries are the author's own reading
+> of the cited papers and may contain mistakes. Corrections are welcome.
 
 ## What this repo does
 
@@ -171,6 +175,11 @@ Full results: `outputs/replication_20261006_162529/replication_table2.csv`.
 | `fetch_ffa.py` | Download station JSON from the FFA Visualiser; write the station catalogue |
 | `build_catalogue.py` | Consolidate raw JSON into flat tables; flag 50+ year stations; match the paper's sites |
 | `replicate_paper.py` | Reproduce Table 2 of Totaro et al. (2024) |
+
+## Licence
+
+The code is released under the [MIT Licence](LICENSE): use it, learn from it and adapt it freely, with no warranty.
+The licence covers the code only. Downloaded station data belong to their original owners and are not included.
 
 ## References
 
